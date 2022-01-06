@@ -1,0 +1,76 @@
+#first-heading{
+    font-family: 'Bree Serif', serif;
+    font-size: 85px;   
+}
+#mission-heading{
+    color: salmon;
+    font-size: 85px;
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+.first-section{
+    display: flex;
+    margin: 100px;
+}
+.first-heading-div{
+    border-left: 6px solid;
+    border-color: rgb(151, 21, 7);
+    padding: 7px;
+    display: inline-block;
+    line-height: 15px;
+    
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 85%;
+    padding-left: 45px;
+}
+.half-width p{
+    font-family: 'Signika', sans-serif;
+    font-size: 25px;
+}
+#first-anchor{
+     text-decoration: none;
+     background-color:rgb(151, 21, 7);
+     font-weight: 700;
+     padding: 15px 25px;
+     color: white;
+     border-radius: 10px;
+}
+.second-section h1{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Secular One', sans-serif;
+    font-weight: 700;
+}
+#span-color{
+    color: salmon;
+}
+.container-area{
+    display: flex;
+    font-family: 'Secular One', sans-serif;
+}
+.container-item{
+    width: 500px;
+    height: 300px;
+    margin-left: 100px;
+    margin-right: 3%;
+    padding-left: 20px;
+}
+.container-item img{
+    width: 50%;
+}
+#mission-div{
+    background-color: rgb(218, 238, 238);
+    border-radius: 10px;
+}
+#vission-div{
+    background-color: rgb(230, 222, 219);
+    border-radius: 10px;
+}
+#goals-div{
+    background-color: rgb(230, 222, 219);
+    border-radius: 10px;
+    padding-bottom: 17px;
+}
