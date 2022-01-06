@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 #first-heading{
     font-family: 'Bree Serif', serif;
     font-size: 85px;   
@@ -73,4 +76,60 @@
     background-color: rgb(230, 222, 219);
     border-radius: 10px;
     padding-bottom: 17px;
+}
+.third-section{
+    display: flex;
+    font-family: 'Secular One', sans-serif;
+    background-image: url(images1/dream-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+    margin-right: 150px;
+    padding-top: 100px;
+    margin-left: 20px;
+}
+.third-section-area{
+    width: 50%;
+}
+.third-section-area img{
+    width: 70%;
+    margin-left: 100px;
+}
+.third-section-area h1{
+    font-size: 50px;
+    line-height: 15px;
+}
+.third-section-area p{
+    font-size: 25px;
+}
+#develop-padding{
+    padding-top: 30px;
+}
+.documentation-anchor{
+    text-decoration: none;
+    background-color:rgb(151, 21, 7);
+    font-weight: 700;
+    padding: 15px 25px;
+    color: white;
+    border-radius: 10px;
+}
+.fourth-section{
+    display: flex;
+    margin-left: 100px;
+    padding-top: 150px;
+    font-family: 'Secular One', sans-serif;
+    
+}
+.fourth-container{
+    width: 50%;
+}
+.fourth-container img{
+    width: 60%;
+    padding-left: 100px;
+}
+.fourth-container h1{
+    font-size: 70px;
+    line-height: 15px;
+}
+.fourth-container p{
+    font-size: 25px;
 }
